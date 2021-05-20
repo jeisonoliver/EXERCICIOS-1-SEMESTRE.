@@ -1,0 +1,5 @@
+print("JJJJJJJ EEEEEEE IIIIIII SSSSSSS OOOOOOO NN      N")
+print("   J    E          I    S       O     O N  N    N")
+print("   J    EEEE       I    SSSSSSS O     O N   N   N")
+print("   J    E          I          S O     O N     N N")
+print("JJJJ    EEEEEEE IIIIIII SSSSSSS OOOOOOO N      NN")
